@@ -1,3 +1,3 @@
 # codewars
 
-This is all of my 8 kyu code wars challanges for JS.
+This is all of my code wars challenges for JS.
