@@ -1,1 +1,1 @@
-# codewars-7-kyu
+# codewars kyu
